@@ -1,0 +1,121 @@
+body {
+	background-color:#E6E6E6;
+	font-family: 'Khand', sans-serif;
+}
+
+#contener {
+	margin:50px auto;
+	width:96%;
+	max-width:1200px;
+}
+
+header {
+	width:940px;
+	height:404px;
+	background-color:#A4A4A4;
+	position:relative;
+	left:295px;
+	border: 1px solid black;
+	top:5px;
+}
+
+h3 {
+	color:#349600;
+}
+
+p {
+	color: #349600;
+	font-size:20px;
+}
+
+nav {
+	width: 1250px;
+	height:400px;
+	background-color:#A4A4A4;
+	top:15px;
+	position:relative;
+	left: -20px;
+	border: 1px solid black;
+}
+
+section {
+	width:1250px;
+	height:400px;
+	background-color:#A4A4A4;
+	position:relative;
+	top:30px;
+	left: -20px;
+	border: 1px solid black;
+}
+
+footer {
+	height:405px;
+	width: 300px;
+	background-color:#A4A4A4;
+	position:relative;
+	top:-1205px;
+	left:-20px;
+	border: 1px solid black;
+}
+
+h1 {
+	font-size: 35px;
+}
+
+h2 {
+	font-size: 35px;
+	color: black;
+}
+
+#sizescroll {
+	overflow:auto;
+	width:500px;
+	height:200px;
+	background-color:#A4A4A4;
+	top:30px;
+	left: 20px;
+	position: relative;
+}
+
+table {
+ 	border-collapse : collapse;
+	width:100%;
+	background-color: #A4A4A4;
+ }
+
+ 
+td {
+	border : 3px solid #349600;
+	height : 30px;
+}
+
+#bordur {
+	border: 1px solid black; 
+}
+
+
+.bordur {
+	border: 2px solid #349600;
+}
+
+#sizescroll2 {
+	overflow:auto;
+	width:350px;
+	height:100px;
+	background-color:#A4A4A4;
+	top:-220px;
+	left: 520px;
+	position: relative;
+}
+
+#contener2 {
+	margin:50px auto;
+	width:96%;
+	max-width:1200px;
+}
+
+.photo {
+	top: -365px;
+	position: relative;
+	border: 1px solid black;
+}
